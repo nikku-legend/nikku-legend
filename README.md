@@ -1,113 +1,188 @@
 # 👋 Hi, I'm Rishikanta Dang
 
-### Java Developer | Spring Boot | React | MySQL | Building Real-World Applications
+### ☕ Java Developer | 🌱 Spring Boot | ⚛️ React | 🗄️ MySQL | 🚀 Full-Stack Development
 
-I'm a Computer Science student passionate about building practical,
-scalable and user-focused software applications.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nikku-legend&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-I enjoy working with Java and Spring Boot on the backend and
-React on the frontend, while continuously improving my problem-solving
-and software development skills.
+I'm a Computer Science Engineering student passionate about building
+real-world software applications and solving practical problems through technology.
+
+I primarily work with **Java, Spring Boot, React and MySQL**, while continuously
+improving my problem-solving, DSA and backend development skills.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering Student
-- 💻 Focused on Java & Spring Boot development
-- 🌐 Building full-stack web applications
-- 🗄️ Experienced with MySQL and relational databases
-- 🔐 Working with REST APIs, JWT and Spring Security
+- ☕ Focused on **Java & Spring Boot**
+- 🌐 Building **full-stack web applications**
+- 🔐 Interested in **REST APIs, JWT & Spring Security**
+- 🗄️ Working with **MySQL, JPA & Hibernate**
 - 🚀 Currently building **Travel Buddy**
-- 📚 Currently improving my DSA and backend development skills
-- 🎯 Preparing for software development opportunities
+- 🧠 Improving my **Data Structures & Algorithms**
+- 🏗️ Learning **backend architecture & system design**
+- 💼 Preparing for **software development opportunities**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Backend
+### 💻 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,python,c" />
+</p>
 
-### Frontend
+### 🚀 Backend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
+</p>
 
-### Database
+**Java • Spring Boot • Spring Security • Spring Data JPA • Hibernate • REST APIs • JWT**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🎨 Frontend
 
-### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,redis" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode,docker" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🌍 Travel Buddy
+## 🌍 Travel Buddy
 
-A centralized travel planning and hospitality platform designed to
-help users discover destinations, plan trips and book travel services.
+### Centralized Travel Planning & Hospitality Platform
 
-**Tech:** Java, Spring Boot, React, MySQL, JWT, REST API
+A full-stack travel platform designed to bring destination discovery,
+custom trip planning and hospitality services into one ecosystem.
 
-### 📚 RankUp
+### ✨ Key Features
 
-An online learning and competitive examination platform featuring
-subject-wise learning, mock tests, company interview preparation
-and competitive exam practice.
+- 🌎 Region-first destination exploration
+- 🗺️ Attraction discovery
+- 🧳 Custom trip planner
+- 👥 Group-based trip planning
+- 🏨 Hotel booking
+- 🧑‍🏫 Local guide booking
+- 🚕 Cab/driver partner system
+- 🤝 Partner onboarding
+- 👨‍💼 Admin verification
+- 💳 Online payment integration
+- 🔐 JWT authentication
+- 📊 Partner dashboards
+- ⭐ Reviews & ratings
 
-**Tech:** Java, Spring Boot, React, MySQL
+### 🛠️ Technology
 
-### 🎓 Student Management System
+`Java` `Spring Boot` `React` `MySQL` `Spring Security`
+`JWT` `REST API` `Hibernate` `Razorpay`
+
+🔗 **Repository:**  
+https://github.com/nikku-legend/travel-buddy
+
+---
+
+## 📚 RankUp
+
+### Online Learning & Competitive Examination Platform
+
+A learning and examination platform designed for students preparing
+for competitive examinations and technical interviews.
+
+### ✨ Features
+
+- 📖 Subject-wise learning
+- 📝 Mock examinations
+- 🏆 Competitive exams
+- 💼 Company interview preparation
+- 🎯 Practice questions
+- 📊 User dashboard
+- 🔐 Email OTP authentication
+- 📈 Performance tracking
+
+### 🛠️ Technology
+
+`Java` `Spring Boot` `React` `MySQL` `JavaScript` `Tailwind CSS`
+
+🔗 **Repository:**  
+https://github.com/nikku-legend/ScoreX
+
+---
+
+## 🎓 Student Management System
 
 A college management platform designed to manage students,
-courses, attendance, profiles and administrative operations.
+courses, attendance and administrative operations.
 
-**Tech:** Java, Spring Boot, MySQL, HTML, CSS, JavaScript
+### ✨ Features
 
----
+- 🔐 Admin authentication
+- 👨‍🎓 Student profiles
+- 📚 Course management
+- 📝 Attendance management
+- 🔎 Student search
+- 📊 Administrative dashboard
+- 💰 Payment/dues management
 
-## 📚 Currently Learning
+### 🛠️ Technology
 
-- Data Structures & Algorithms
-- Advanced Java
-- Spring Boot
-- Spring Security
-- Backend Architecture
-- REST API Design
-- System Design
-
----
-
-## 🎯 2026 Goals
-
-- 🚀 Build production-ready applications
-- 🧠 Strengthen DSA and problem-solving
-- ☕ Become stronger in Java & Spring Boot
-- 🏗️ Learn scalable backend architecture
-- 💼 Secure a software development role
-- 🌱 Contribute to meaningful open-source projects
+`Java` `Spring Boot` `MySQL` `HTML` `CSS` `JavaScript`
 
 ---
 
-## 🤝 Connect With Me
+# 📊 GitHub Statistics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikku-legend&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikku-legend&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ---
 
-⭐ From [nikku-legend](https://github.com/nikku-legend)
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nikku-legend&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikku-legend&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 📚 Currently Learning
+
+```text
+Data Structures & Algorithms
+        ↓
+Advanced Java
+        ↓
+Spring Boot & Spring Security
+        ↓
+REST API Design
+        ↓
+Backend Architecture
+        ↓
+System Design
