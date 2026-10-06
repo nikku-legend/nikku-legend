@@ -3,64 +3,136 @@
 ### ☕ Java Developer | 🌱 Spring Boot | ⚛️ React | 🗄️ MySQL | 🚀 Full-Stack Development
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nikku-legend&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nikku-legend&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 I'm a Computer Science Engineering student passionate about building
 real-world software applications and solving practical problems through technology.
 
-I primarily work with **Java, Spring Boot, React and MySQL**, while continuously
-improving my problem-solving, DSA and backend development skills.
+I primarily work with **Java, Spring Boot, React and MySQL**, with a strong interest
+in backend development, REST APIs, authentication systems and full-stack web applications.
+
+Currently, I'm focused on strengthening my **Java, Data Structures & Algorithms,
+Spring Boot and backend development skills** while building practical projects.
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering Student
 - ☕ Focused on **Java & Spring Boot**
 - 🌐 Building **full-stack web applications**
-- 🔐 Interested in **REST APIs, JWT & Spring Security**
-- 🗄️ Working with **MySQL, JPA & Hibernate**
+- ⚛️ Working with **React & JavaScript**
+- 🗄️ Working with **MySQL**
+- 🔐 Building applications using **Spring Security & JWT**
+- 🔗 Developing **REST APIs**
+- 🧩 Working with **Spring Data JPA & Hibernate**
 - 🚀 Currently building **Travel Buddy**
-- 🧠 Improving my **Data Structures & Algorithms**
-- 🏗️ Learning **backend architecture & system design**
+- 🧠 Currently improving my **Data Structures & Algorithms**
+- 🏗️ Improving my **backend development & software architecture skills**
 - 💼 Preparing for **software development opportunities**
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Languages
+## 💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,python,c" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
 </p>
 
-### 🚀 Backend
+### Java
+My primary programming language, used for backend development,
+object-oriented programming and building Spring Boot applications.
 
-<p>
+### JavaScript
+Used for frontend development and creating interactive web applications.
+
+### HTML & CSS
+Used for creating responsive and structured web interfaces.
+
+---
+
+# 🚀 Backend Development
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
 </p>
 
-**Java • Spring Boot • Spring Security • Spring Data JPA • Hibernate • REST APIs • JWT**
+### Technologies
 
-### 🎨 Frontend
+- ☕ Java
+- 🌱 Spring Boot
+- 🔐 Spring Security
+- 🗄️ Spring Data JPA
+- ⚙️ Hibernate
+- 🔗 REST APIs
+- 🔑 JWT Authentication
+- 📦 Maven
 
-<p>
+I enjoy building backend systems with a focus on clean architecture,
+authentication, database integration and RESTful API development.
+
+---
+
+# 🎨 Frontend Development
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
 </p>
 
-### 🗄️ Database
+### Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,redis" />
+- ⚛️ React
+- 🟨 JavaScript
+- 🌐 HTML5
+- 🎨 CSS3
+- 💨 Tailwind CSS
+
+I use React and JavaScript to build responsive and interactive
+frontend interfaces that communicate with backend REST APIs.
+
+---
+
+# 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🔧 Tools & Platforms
+### MySQL
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode,docker" />
+My primary database technology for building relational,
+data-driven applications.
+
+I work with:
+
+- Database design
+- Tables & relationships
+- SQL queries
+- CRUD operations
+- Joins
+- Constraints
+- Primary & foreign keys
+- Relational data modeling
+- JPA/Hibernate integration
+
+---
+
+# 🔧 Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,maven" />
 </p>
+
+### Tools I Use
+
+- 🔧 Git
+- 🐙 GitHub
+- 💡 IntelliJ IDEA
+- 📝 Visual Studio Code
+- 📦 Maven
 
 ---
 
@@ -70,119 +142,48 @@ improving my problem-solving, DSA and backend development skills.
 
 ### Centralized Travel Planning & Hospitality Platform
 
-A full-stack travel platform designed to bring destination discovery,
-custom trip planning and hospitality services into one ecosystem.
+**Travel Buddy** is a full-stack travel planning and hospitality
+platform designed to bring destination discovery, trip planning,
+accommodation and travel services into one ecosystem.
+
+The platform follows a region-first exploration approach where users
+can discover destinations and attractions before planning and booking
+their trips.
 
 ### ✨ Key Features
 
-- 🌎 Region-first destination exploration
-- 🗺️ Attraction discovery
+- 🌎 Destination discovery
+- 🗺️ Region-first exploration
+- 📍 Attraction discovery
 - 🧳 Custom trip planner
 - 👥 Group-based trip planning
-- 🏨 Hotel booking
+- 💰 Budget & premium trip options
+- 🏨 Hotel accommodation booking
 - 🧑‍🏫 Local guide booking
-- 🚕 Cab/driver partner system
-- 🤝 Partner onboarding
-- 👨‍💼 Admin verification
-- 💳 Online payment integration
-- 🔐 JWT authentication
+- 🚕 Cab/driver partner services
+- 🤝 Partner onboarding system
+- 👨‍💼 Admin partner verification
 - 📊 Partner dashboards
 - ⭐ Reviews & ratings
+- 🔐 JWT authentication
+- 👤 User account management
+- 📅 Booking management
+- ❌ Booking cancellation
+- 💳 Payment integration
+- 🛡️ Role-based access control
 
-### 🛠️ Technology
-
-`Java` `Spring Boot` `React` `MySQL` `Spring Security`
-`JWT` `REST API` `Hibernate` `Razorpay`
-
-🔗 **Repository:**  
-https://github.com/nikku-legend/travel-buddy
-
----
-
-## 📚 RankUp
-
-### Online Learning & Competitive Examination Platform
-
-A learning and examination platform designed for students preparing
-for competitive examinations and technical interviews.
-
-### ✨ Features
-
-- 📖 Subject-wise learning
-- 📝 Mock examinations
-- 🏆 Competitive exams
-- 💼 Company interview preparation
-- 🎯 Practice questions
-- 📊 User dashboard
-- 🔐 Email OTP authentication
-- 📈 Performance tracking
-
-### 🛠️ Technology
-
-`Java` `Spring Boot` `React` `MySQL` `JavaScript` `Tailwind CSS`
-
-🔗 **Repository:**  
-https://github.com/nikku-legend/ScoreX
-
----
-
-## 🎓 Student Management System
-
-A college management platform designed to manage students,
-courses, attendance and administrative operations.
-
-### ✨ Features
-
-- 🔐 Admin authentication
-- 👨‍🎓 Student profiles
-- 📚 Course management
-- 📝 Attendance management
-- 🔎 Student search
-- 📊 Administrative dashboard
-- 💰 Payment/dues management
-
-### 🛠️ Technology
-
-`Java` `Spring Boot` `MySQL` `HTML` `CSS` `JavaScript`
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikku-legend&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikku-legend&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nikku-legend&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikku-legend&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 📚 Currently Learning
+### 🛠️ Technology Stack
 
 ```text
-Data Structures & Algorithms
-        ↓
-Advanced Java
-        ↓
-Spring Boot & Spring Security
-        ↓
-REST API Design
-        ↓
-Backend Architecture
-        ↓
-System Design
+Java
+Spring Boot
+Spring Security
+Spring Data JPA
+Hibernate
+JWT
+REST APIs
+MySQL
+React
+JavaScript
+Tailwind CSS
+Maven
