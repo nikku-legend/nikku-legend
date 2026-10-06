@@ -1,189 +1,81 @@
-# 👋 Hi, I'm Rishikanta Dang
+<div align="center">
 
-### ☕ Java Developer | 🌱 Spring Boot | ⚛️ React | 🗄️ MySQL | 🚀 Full-Stack Development
+  <h1>👋 Hi, I'm <a href="https://linkedin.com/in/rishikant-dang-51122295">Rishikanta Dang</a></h1>
+  <p><strong>Java Developer • Spring Boot Specialist • Full-Stack Engineer</strong></p>
+
+  <p>
+    <a href="https://github.com/nikku-legend">
+      <img src="https://komarev.com/ghpvc/?username=nikku-legend&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+    </a>
+    <a href="https://github.com/nikku-legend?tab=followers">
+      <img src="https://img.shields.io/github/followers/nikku-legend?label=Followers&style=flat-square&color=238636" alt="GitHub Followers"/>
+    </a>
+    <a href="https://github.com/nikku-legend?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-4-blue?style=flat-square" alt="Repositories"/>
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+Hello! I'm **Rishikanta Dang**, a Computer Science Engineering student focused on building robust, scalable backend systems and modern full-stack web applications.
+
+- ☕ **Core Focus:** Java backend architecture with **Spring Boot**, **Spring Security**, and **MySQL**.
+- ⚛️ **Frontend Capabilities:** Responsive user interfaces built using **React** and **Tailwind CSS**.
+- 🧠 **Problem Solving:** Deepening knowledge in Data Structures & Algorithms and clean system design.
+- 🎯 **Current Goal:** Preparing for software engineering placements and building production-grade applications.
+
+---
+
+### 🛠️ Tech Stack & Capabilities
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nikku-legend&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,js,react,tailwind,maven,git,github,idea,vscode&perline=6" alt="Tech Stack Icons"/>
 </p>
 
-I'm a Computer Science Engineering student passionate about building
-real-world software applications and solving practical problems through technology.
-
-I primarily work with **Java, Spring Boot, React and MySQL**, with a strong interest
-in backend development, REST APIs, authentication systems and full-stack web applications.
-
-Currently, I'm focused on strengthening my **Java, Data Structures & Algorithms,
-Spring Boot and backend development skills** while building practical projects.
-
----
-
-# 👨‍💻 About Me
-
-- 🎓 Computer Science Engineering Student
-- ☕ Focused on **Java & Spring Boot**
-- 🌐 Building **full-stack web applications**
-- ⚛️ Working with **React & JavaScript**
-- 🗄️ Working with **MySQL**
-- 🔐 Building applications using **Spring Security & JWT**
-- 🔗 Developing **REST APIs**
-- 🧩 Working with **Spring Data JPA & Hibernate**
-- 🚀 Currently building **Travel Buddy**
-- 🧠 Currently improving my **Data Structures & Algorithms**
-- 🏗️ Improving my **backend development & software architecture skills**
-- 💼 Preparing for **software development opportunities**
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | Java, JavaScript (ES6+), SQL, HTML5, CSS3 |
+| **Backend Frameworks** | Spring Boot, Spring Security, Spring Data JPA, Hibernate |
+| **Frontend Stack** | React, Tailwind CSS, Axios, Context API |
+| **Database Systems** | MySQL, Relational Schema Design, Query Optimization |
+| **Tooling & Ops** | Git, GitHub, Maven, Postman, IntelliJ IDEA, VS Code |
 
 ---
 
-# 🛠️ Tech Stack
+### 🚀 Featured Projects
 
-## 💻 Languages
+#### 1. 🌍 [Travel Buddy](https://github.com/nikku-legend/travel-buddy) — Centralized Travel & Hospitality Platform
+An end-to-end ecosystem bringing travel planning, destination discovery, local guide booking, and hotel reservations under one platform.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
-</p>
-
-### Java
-My primary programming language, used for backend development,
-object-oriented programming and building Spring Boot applications.
-
-### JavaScript
-Used for frontend development and creating interactive web applications.
-
-### HTML & CSS
-Used for creating responsive and structured web interfaces.
-
----
-
-# 🚀 Backend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
-</p>
-
-### Technologies
-
-- ☕ Java
-- 🌱 Spring Boot
-- 🔐 Spring Security
-- 🗄️ Spring Data JPA
-- ⚙️ Hibernate
-- 🔗 REST APIs
-- 🔑 JWT Authentication
-- 📦 Maven
-
-I enjoy building backend systems with a focus on clean architecture,
-authentication, database integration and RESTful API development.
-
----
-
-# 🎨 Frontend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
-</p>
-
-### Technologies
-
-- ⚛️ React
-- 🟨 JavaScript
-- 🌐 HTML5
-- 🎨 CSS3
-- 💨 Tailwind CSS
-
-I use React and JavaScript to build responsive and interactive
-frontend interfaces that communicate with backend REST APIs.
-
----
-
-# 🗄️ Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### MySQL
-
-My primary database technology for building relational,
-data-driven applications.
-
-I work with:
-
-- Database design
-- Tables & relationships
-- SQL queries
-- CRUD operations
-- Joins
-- Constraints
-- Primary & foreign keys
-- Relational data modeling
-- JPA/Hibernate integration
-
----
-
-# 🔧 Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,maven" />
-</p>
-
-### Tools I Use
-
-- 🔧 Git
-- 🐙 GitHub
-- 💡 IntelliJ IDEA
-- 📝 Visual Studio Code
-- 📦 Maven
-
----
-
-# 🚀 Featured Projects
-
-## 🌍 Travel Buddy
-
-### Centralized Travel Planning & Hospitality Platform
-
-**Travel Buddy** is a full-stack travel planning and hospitality
-platform designed to bring destination discovery, trip planning,
-accommodation and travel services into one ecosystem.
-
-The platform follows a region-first exploration approach where users
-can discover destinations and attractions before planning and booking
-their trips.
-
-### ✨ Key Features
-
-- 🌎 Destination discovery
-- 🗺️ Region-first exploration
-- 📍 Attraction discovery
-- 🧳 Custom trip planner
-- 👥 Group-based trip planning
-- 💰 Budget & premium trip options
-- 🏨 Hotel accommodation booking
-- 🧑‍🏫 Local guide booking
-- 🚕 Cab/driver partner services
-- 🤝 Partner onboarding system
-- 👨‍💼 Admin partner verification
-- 📊 Partner dashboards
-- ⭐ Reviews & ratings
-- 🔐 JWT authentication
-- 👤 User account management
-- 📅 Booking management
-- ❌ Booking cancellation
-- 💳 Payment integration
-- 🛡️ Role-based access control
-
-### 🛠️ Technology Stack
+* **Key Capabilities:** Multi-role partner portal (Hotels, Guides, Drivers), region-first destination discovery, custom itinerary builder, and role-based JWT authentication.
+* **Tech Stack:** Java, Spring Boot, Spring Security, Spring Data JPA, MySQL, React, Tailwind CSS.
 
 ```text
-Java
-Spring Boot
-Spring Security
-Spring Data JPA
-Hibernate
-JWT
-REST APIs
-MySQL
-React
-JavaScript
-Tailwind CSS
-Maven
+  [ Traveler / Partner ] ───► [ React Frontend ]
+                                     │
+                                (REST / JWT)
+                                     ▼
+                          [ Spring Boot Backend ]
+                                     │
+                          [ Spring Data JPA / Hibernate ]
+                                     ▼
+                              [ MySQL Database ]
+
+
+2. 📚 RankUp — Online Learning & Assessment System
+A student assessment platform designed for competitive exam preparation, mock tests, and performance analytics.
+
+Key Capabilities: Subject-wise mock exams, interview preparation suites, company-specific question banks, and detailed performance metrics.
+
+Tech Stack: Java, Spring Boot, MySQL, React, Tailwind CSS.
+
+3. 🎓 Student Management System — Enterprise Campus Portal
+A structured college operations platform featuring distinct workflows for administrative management and student self-service.
+
+Key Capabilities: Course & program enrollment, class scheduling, automated attendance recording, and payment status dashboards.
+
+Tech Stack: Java, Spring Boot, Spring Data JPA, MySQL, JavaScript, HTML5, CSS3.
